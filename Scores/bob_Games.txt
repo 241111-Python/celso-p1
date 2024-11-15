@@ -1,0 +1,16 @@
+Game at: 2024-11-14 18:53:37, Computer Score: 0, Player Score: 1
+Game at: 2024-11-14 18:53:38, Computer Score: 0, Player Score: 0
+Game at: 2024-11-14 18:53:39, Computer Score: 0, Player Score: 0
+Game at: 2024-11-14 18:53:40, Computer Score: 0, Player Score: 0
+Game at: 2024-11-14 18:53:40, Computer Score: 0, Player Score: 0
+Game at: 2024-11-14 18:53:41, Computer Score: 0, Player Score: 1
+Game at: 2024-11-14 18:53:42, Computer Score: 1, Player Score: 0
+Game at: 2024-11-14 18:53:42, Computer Score: 0, Player Score: 0
+Game at: 2024-11-14 21:53:41, Computer Score: 0, Player Score: 1
+Game at: 2024-11-14 18:53:43, Computer Score: 1, Player Score: 0
+Game at: 2024-11-14 18:53:44, Computer Score: 0, Player Score: 1
+Game at: 2024-11-14 18:53:44, Computer Score: 1, Player Score: 0
+Game at: 2024-11-14 18:53:45, Computer Score: 1, Player Score: 0
+Game at: 2024-11-14 18:53:45, Computer Score: 0, Player Score: 0
+Game at: 2024-11-14 18:53:45, Computer Score: 0, Player Score: 1
+Game at: 2024-11-14 18:53:46, Computer Score: 0, Player Score: 1
