@@ -1,0 +1,4 @@
+Game at: 2024-11-15 11:50:27, Computer Score: 1, Player Score: 0
+Game at: 2024-11-15 11:50:28, Computer Score: 0, Player Score: 1
+Game at: 2024-11-15 11:50:29, Computer Score: 0, Player Score: 0
+Game at: 2024-11-15 11:50:31, Computer Score: 1, Player Score: 0
